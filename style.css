@@ -1,0 +1,17 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: gold;
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+
+.hidden{
+    display: none;
+}
+
+.color{
+    background-color: red;
+}
